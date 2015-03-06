@@ -6,7 +6,7 @@
             Version="1.0.0.0" />
 
   <Properties>
-    <DisplayName>HellowWorld.Windows</DisplayName>
+    <DisplayName>HelloWorld.Windows</DisplayName>
     <PublisherDisplayName>Carlos FR</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -23,12 +23,12 @@
   <Applications>
     <Application Id="App"
         Executable="$targetnametoken$.exe"
-        EntryPoint="HellowWorld.Windows.App">
+        EntryPoint="HelloWorld.Windows.App">
         <m2:VisualElements
-            DisplayName="HellowWorld.Windows"
+            DisplayName="HelloWorld.Windows"
             Square150x150Logo="Assets\Logo.png"
             Square30x30Logo="Assets\SmallLogo.png"
-            Description="HellowWorld.Windows"
+            Description="HelloWorld.Windows"
             ForegroundText="light"
             BackgroundColor="#464646">
             <m2:SplashScreen Image="Assets\SplashScreen.png" />

@@ -8,7 +8,7 @@
   <mp:PhoneIdentity PhoneProductId="5491633b-c47b-4dfd-8401-962c6d502b48" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>HellowWorld.WindowsPhone</DisplayName>
+    <DisplayName>HelloWorld.WindowsPhone</DisplayName>
     <PublisherDisplayName>Carlos FR</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
@@ -25,12 +25,12 @@
   <Applications>
     <Application Id="App"
         Executable="$targetnametoken$.exe"
-        EntryPoint="HellowWorld.WindowsPhone.App">
+        EntryPoint="HelloWorld.WindowsPhone.App">
         <m3:VisualElements
-            DisplayName="HellowWorld.WindowsPhone"
+            DisplayName="HelloWorld.WindowsPhone"
             Square150x150Logo="Assets\Logo.png"
             Square44x44Logo="Assets\SmallLogo.png"
-            Description="HellowWorld.WindowsPhone"
+            Description="HelloWorld.WindowsPhone"
             ForegroundText="light"
             BackgroundColor="transparent">
             <m3:DefaultTile Wide310x150Logo="Assets\WideLogo.png" Square71x71Logo="Assets\Square71x71Logo.png"/>

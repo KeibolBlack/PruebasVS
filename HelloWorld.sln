@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30324.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HellowWorld", "HellowWorld", "{68E0F687-62B5-4070-9897-17F3F42FF787}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HelloWorld", "HelloWorld", "{68E0F687-62B5-4070-9897-17F3F42FF787}"
 EndProject
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "HellowWorld.Shared", "HellowWorld\HellowWorld.Shared\HellowWorld.Shared.shproj", "{7A431C48-4C31-41FD-B93A-A0CA8E7591D9}"
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "HelloWorld.Shared", "HellowWorld\HellowWorld.Shared\HelloWorld.Shared.shproj", "{7A431C48-4C31-41FD-B93A-A0CA8E7591D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellowWorld.Windows", "HellowWorld\HellowWorld.Windows\HellowWorld.Windows.csproj", "{0D177E10-7D99-45F6-917A-D0B88520D05B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Windows", "HellowWorld\HellowWorld.Windows\HelloWorld.Windows.csproj", "{0D177E10-7D99-45F6-917A-D0B88520D05B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellowWorld.WindowsPhone", "HellowWorld\HellowWorld.WindowsPhone\HellowWorld.WindowsPhone.csproj", "{84007EB2-7FDE-4CB4-904B-4F9571068B8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.WindowsPhone", "HellowWorld\HellowWorld.WindowsPhone\HelloWorld.WindowsPhone.csproj", "{84007EB2-7FDE-4CB4-904B-4F9571068B8E}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
