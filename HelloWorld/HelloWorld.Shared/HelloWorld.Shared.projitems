@@ -6,7 +6,7 @@
     <SharedGUID>7a431c48-4c31-41fd-b93a-a0ca8e7591d9</SharedGUID>
   </PropertyGroup>
   <PropertyGroup Label="Configuration">
-    <Import_RootNamespace>HellowWorld</Import_RootNamespace>
+    <Import_RootNamespace>HelloWorld</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
     <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
